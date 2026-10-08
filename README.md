@@ -5,11 +5,7 @@
 </p>
 
 <h1 align="center">hi, i'm <a href="https://github.com/krambovic">krambovic</a>!</h1>
-<p align="center">
-  <a href="https://github.com/krambovic">
-    <img src="./88x31.gif" alt="krambovic">
-  </a>
-</p>
+
 <h3 align="center">welcome to my profile</h3>
 
 <p align="center">senior vibe-coding engineer</p>
