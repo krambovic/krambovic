@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/krambovic">
-    <img src="https://i.giphy.com/rR2AWZ3ip77r2.webp alt="Banner" width="400">
+    <img src="totoro.gif alt="Banner" width="400">
   </a>
 </p>
 
