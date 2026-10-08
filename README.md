@@ -15,7 +15,3 @@
   <strong>Discord: <code>krambovic69</code></strong> |
   <strong><a href="https://lumen-kvn.eu.cc/">Lumen</a></strong>
 </p>
-
-<p align="center">
-  <a href="https://github.com/krambovic/Lumen"><b>Lumen</b></a>: a standalone vpn for bypassing dpi blocks
-</p>
